@@ -1,7 +1,6 @@
 # 🧑‍💻 Software Engineer & Web Developer ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat) 
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id" alt="Profile Image" width="200"/>
   <h1>Muhammad Muneeb</h1>
   <a href="https://github.com/muhammadmuneeb1800">
     <img src="https://img.shields.io/github/stars/muhammadmuneeb1800?label=Stars&style=social" alt="GitHub Stars">
@@ -38,9 +37,11 @@
 ---
 
 ## 📈 GitHub Analytics
+<div align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmuneeb1800&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuneeb1800&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadmuneeb1800&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 
 ---
