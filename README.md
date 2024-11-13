@@ -21,7 +21,7 @@
 - 🌐 Former student at Saylani Mass IT Training Program.
 - 🤝 I’m looking to connect and collaborate with other developers and tech enthusiasts.
 
-## 🚀✨ 2024 Goals
+## 🚀 2024 Goals ✨
 - 📈 Expand my skills in advanced MERN stack development.
 - 🌱 Learn new technologies in cloud services and DevOps.
 - 🔗 Network with other developers and work on impactful projects.
@@ -29,8 +29,8 @@
 ---
 
 ## 🤝🏻 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmuneeb1800)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](muhammadmuneeb1800@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)](link-to-your-portfolio)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Freelancing-brightgreen)](https://fiverr.com/your-gig-link)
 
