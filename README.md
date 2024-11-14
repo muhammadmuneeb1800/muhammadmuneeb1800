@@ -16,7 +16,7 @@
 - 👋 Hello! I’m Muhammad Muneeb, a Software Engineering graduate with a strong foundation in web development.
 - 👨‍💻 I'm skilled in the **MERN stack** and other front-end and back-end technologies.
 - 🌱 Currently working on improving my skills and building a personal portfolio.
-- 💡 My technical expertise includes **HTML/CSS, JavaScript, React, Node.js, MongoDB** and other modern tools.
+- 💡 My technical expertise includes **HTML/CSS, JavaScript, PHP, Laravel, React, Node.js, MongoDB, Express.Js, Firebase** and other modern tools.
 - 📚 I love solving complex problems and enjoy working on **Data Structures and Algorithms**.
 - 🌐 Former student at Saylani Mass IT Training Program.
 - 🤝 I’m looking to connect and collaborate with other developers and tech enthusiasts.
@@ -42,7 +42,7 @@
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadmuneeb1800&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadmuneeb1800&layout=compact&theme=radical)
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadmuneeb1800&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=muhammadmuneeb1800&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
