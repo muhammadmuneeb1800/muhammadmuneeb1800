@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  #![Typing](https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif)
-  
-  #![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
+  <img src="https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif" alt="Typing Effect" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat" alt="Profile Views" />
 </div>
+
 
 
 </div>
