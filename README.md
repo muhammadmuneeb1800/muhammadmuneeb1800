@@ -1,10 +1,12 @@
-# 🧑‍💻 Software Engineer & Web Developer ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
+# 🧑‍💻 Software Engineer | MERN Stack Developer | BSCS Student ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
 
 <div align="center">
-  <h1>Hi 👋, I'm Muhammad Muneeb</h1>
-  <a href="https://github.com/muhammadmuneeb1800">
-    <img src="https://img.shields.io/github/stars/muhammadmuneeb1800?label=Stars&style=social" alt="GitHub Stars">
-  </a>
+  <div align="center">
+  <h1>Hey 👋, I'm Muhammad Muneeb</h1>
+  <p>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Software+Engineer;MERN+Stack+Developer;BSCS+Student+%7C+Virtual+University;Let's+Innovate+Together!&center=true&width=500&height=50">
+  </p>
+</div>
 
   ![Typing](https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif)
 </div>
