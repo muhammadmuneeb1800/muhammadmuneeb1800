@@ -7,8 +7,9 @@
 </div>
 
 <div align="center">
-  ![Typing](https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif)
-  ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
+  #![Typing](https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif)
+  
+  #![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
 </div>
 
 
