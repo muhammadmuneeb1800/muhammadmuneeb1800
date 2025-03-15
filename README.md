@@ -1,6 +1,4 @@
-# 🧑‍💻 Software Engineer | MERN Stack Developer | BSCS Student ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
-
-<div align="center">
+# 🧑‍💻 Software Engineer | MERN Stack Developer | BSCS Student <div align="center">
   <div align="center">
   <h1>Hey 👋, I'm Muhammad Muneeb</h1>
   <p>
@@ -8,7 +6,12 @@
   </p>
 </div>
 
+<div align="center">
   ![Typing](https://raw.githubusercontent.com/muhammadmuneeb1800/muhammadmuneeb1800/main/typing-effect.gif)
+  ![Profile Views](https://komarev.com/ghpvc/?username=muhammadmuneeb1800&color=blue&style=flat)
+</div>
+
+
 </div>
 
 ---
