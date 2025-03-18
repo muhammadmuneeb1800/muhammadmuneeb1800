@@ -41,7 +41,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadmuneeb1800)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:muhammadmuneeb1800@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio-green)](link-to-your-portfolio)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Freelancing-brightgreen)](https://fiverr.com/your-gig-link)
 
 ---
 
